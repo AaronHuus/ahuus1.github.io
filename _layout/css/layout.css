@@ -347,6 +347,11 @@
 		text-align: right;
 		text-transform: uppercase; 
 	}
+
+	.cv-section-title img{
+		height: 25px; 
+		width: 133px;
+	}
 	
 	.cv-section-title p { margin-bottom: 5px; }
 	
