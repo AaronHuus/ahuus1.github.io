@@ -348,9 +348,19 @@
 		text-transform: uppercase; 
 	}
 
-	.cv-section-title img{
-		height: 25px; 
-		width: 133px;
+	.cv-section-title img.HumanGeo{
+		height: auto; 
+		width: 125px;
+	}
+
+	.cv-section-title img.LockheedMartin{
+		height: auto; 
+		width: 275px;
+	}
+
+	.cv-section-title img.NotreDame{
+		height: auto; 
+		width: 250px;
 	}
 	
 	.cv-section-title p { margin-bottom: 5px; }
