@@ -362,6 +362,11 @@
 		height: auto; 
 		width: 250px;
 	}
+
+	.cv-section-title img.Minnesota{
+		height: auto; 
+		width: 225px;
+	}
 	
 	.cv-section-title p { margin-bottom: 5px; }
 	
