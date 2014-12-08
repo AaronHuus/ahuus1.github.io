@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/ahuus1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.aaronhuus.com
+  * I am ahuus1 (https://keybase.io/ahuus1) on keybase.
+  * I have a public key with fingerprint 73E6 4FF5 7516 1BDB D866  4F6A F682 DA21 2F41 8638
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "73e64ff575161bdbd8664f6af682da212f418638",
+            "host": "keybase.io",
+            "key_id": "F682DA212F418638",
+            "uid": "f25df437738f9554092996d72b099f00",
+            "username": "ahuus1"
+        },
+        "merkle_root": {
+            "ctime": 1412864314,
+            "hash": "6ae64085e9a2cdd75387d193efbf4b46ae0c08ff32cd710ae6ff76ac5798a265413cb0e2974856fde53f02d274f3c0620da9481f9b5fd77b7ea9b487a3fe2a2f",
+            "seqno": 75924
+        },
+        "service": {
+            "hostname": "www.aaronhuus.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412864349,
+    "expire_in": 157680000,
+    "prev": "80801758505bc6796ee58084ce8357159cd503a730d4019422c3b25168a7194b",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFdkm1oHEUYxy9No+lRSZCaUBpKuxq/9LjMzM7szJwWSRtbRJEiMRVtPWd2ZpI1
+l93r7l7SUEPjW0sUaiqCFmMDimBRUKsRsYqCYGqqQt9o4wdpSlUaQT8IKhyKsyFK
+dT7NM8/v+c/zn3kmb2jM5Rt+e+LbjV3dB1jDqasy1+sd2b3PkZEadUr7HL8S6DDN
+dqEY0k7JGdSjUiS6GEQbwkjp4qPJhmWm4AzrOAmi0FKgSIvIGStkeFZsgrBfx9U4
+yLQc6moPG0MogR6USirm2dgTxmNICQSRwZB5LrOSA1GS/udWZ0mzHCh7us3yPd2W
+3/YvX1tKGESUwS6lLjOcEAw44txTFEnAuQEgAxMdL1sSA7VaArNuh3Q8WNHlOIqW
+LPtpkAEQQ8Q87EJs+xHJgC3xhHUAGNFcIF8pSlxGFeSuNtJgiW0a+IAZ49oshcDS
+xlBP+IRyJpBHMHR9CTTiFDPiGaWJawBSiGLj+sBDQAmOGTRcEqMolVQLLjGjwjUa
+CWSsgUTvCSOnRAlHeCwL4+HA11nb2ZstWxsZGSkKEUdhZrHoR0O2sBpHaeRHFZse
+SNNqKTOejlaXcP22LC8rlWUQKvtt1/4rtOj/HgXzgqP3VoNYl4OMINRjwK7sHj1s
+NRlgAFLCCCDS9yj3tCb2DPuauYRCwn1FgCuoCxQGkGOEfFciOxlMUBvKa6zaPkW/
+lUyC/lCktVg7YxMNHStzDfncdU0rssHN5Ve1/jPNyVRz7rX3b77jSv2Ho1+sfnI0
+91Lb3Jvnpj8+9tR9yaWD+Qcf+SSdG/78YvsHF6Yq+cv4UFO9t/TR9r7HNnXc/Vww
+vth+5kP/9FqQO3qqt3O6/ULXy1c3r/9l9vaF2rn6xl1bXm3pbF3z3usndv0JD38/
+vmP3mc6WLyfXrJx75+etPZ+KXxdWreuYPx4utlTCW2bfeLd8a2Hmj8bTex6oH5po
+LvVsH9k51vjXwrHOOw/K2Z2vdK2P7z0b7z9+4sDvj382v/niW1vgjnr1p73Tcv/J
+b7onTt5z5PBDXzX3NW39sS+9/saHo/svP3/26cnz48/On6fmxWe+7pppn0pavxvc
+tHrdXYsrbptZ+4LTlgOzNy0U2v4G
+=rR72
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ahuus1
+
+==================================================================
